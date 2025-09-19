@@ -4,9 +4,19 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@biomejs/biome": "2.2.2",
+    "@types/bun": "latest",
+    "@types/node": "^24.5.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.6",
+    "ultracite": "5.3.8"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.2"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,jsonc,css,scss,md,mdx}": [
+      "bun x ultracite fix"
+    ]
   }
 }
