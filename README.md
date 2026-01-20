@@ -13,12 +13,11 @@
 
 <a href="https://peerlist.io/vijayx/project/btget" target="_blank" rel="noreferrer">
     <img
-        src="https://peerlist.io/api/v1/projects/embed/PRJHBAR679BJBRQ66HKPB97ADA7GJL?showUpvote=false&theme=dark"
+        src="https://peerlist.io/api/v1/projects/embed/PRJHBAR679BJBRQ66HKPB97ADA7GJL?showUpvote=true&theme=dark"
         alt="BtGet"
         style="width: auto; height: 72px;"
     />
 </a>
-
 <br />
 
 **A modern, fast, and lightweight BitTorrent client for the command line.**
