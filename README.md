@@ -8,6 +8,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<a href="https://peerlist.io/vijayx/project/btget" target="_blank" rel="noreferrer">
+    <img
+        src="https://peerlist.io/api/v1/projects/embed/PRJHBAR679BJBRQ66HKPB97ADA7GJL?showUpvote=false&theme=dark"
+        alt="BtGet"
+        style="width: auto; height: 72px;"
+    />
+</a>
 
 **A modern, fast, and lightweight BitTorrent client for the command line.**
 
